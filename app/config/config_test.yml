@@ -14,8 +14,3 @@ web_profiler:
 
 swiftmailer:
     disable_delivery: true
-
-# Doctrine Configuration
-doctrine:
-    dbal:
-        dbname:   "mava_test"
